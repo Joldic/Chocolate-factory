@@ -1,0 +1,14 @@
+.contact-container{
+    justify-content: center;
+  
+}
+
+button {
+    border: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color:peru;
+}
+
